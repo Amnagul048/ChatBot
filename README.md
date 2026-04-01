@@ -24,8 +24,8 @@ This project focuses on UI/UX design, message alignment, emoji support, and user
 
 ## Screenshots
 
-![Chatbot UI](https://user-images.githubusercontent.com/yourusername/ChatBotScreenshot.png)  
-*Example of the chat interface with user and bot messages*
+<img width="586" height="366" alt="image" src="https://github.com/user-attachments/assets/f24d4702-de28-40be-ba97-8a3102231266" />
+
 
 ---
 
